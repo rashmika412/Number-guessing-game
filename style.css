@@ -1,0 +1,82 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+body {
+    background-color: #74992e;
+
+}
+#container {
+    background-color: rgb(121, 133, 8);
+    border : 5px solid #2b3d09;
+    height: 400px;
+    width: 800px;
+    text-align: center;
+    margin:auto;
+    font-size: 30px;
+    color:rgb(251, 248, 248);
+    font: size 50px;
+    font-weight: 200px;
+    margin-top: 40px;
+
+}
+h1 { 
+    color: #2b3d09;
+    text-align: center;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-top: 20px;
+    font-size: 48px;
+}
+#btn {
+    background-color: rgb(8, 88, 84);
+    color: rgb(237, 232, 230);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 20px;
+    border-radius: 5%;
+    height: 35px;
+    width:90px;
+    text-align: center;
+}
+#userinput {
+    background-color: antiquewhite;
+    width: 170px;
+    height: 68px;
+    border-radius: 5%;
+    box: shadow 30px;
+    text-align: center;
+}
+#text {
+    padding: 10px;
+    margin: 10px;
+}
+.label-score {
+    margin-top: 20px;
+    padding: 10px;
+    text-align: left;
+    margin-left: 20px;
+}
+.label-highscore {
+    margin-top: 0px;
+    padding: 6px;
+    margin-bottom: 20px;
+    text-align: left;
+    margin-left: 20px;
+}
+.sentance {
+    margin-top: 15px;
+    font-size: 35px;
+}
+#restart {
+    background-color: rgb(8, 88, 84);
+    color: rgb(196, 188, 185);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 20px;
+    border-radius: 5%;
+    height: 35px;
+    width: 80px;0px;
+    text-align: center;
+    position:right;
+    font-weight: bold;
+    border: 50;
+}
